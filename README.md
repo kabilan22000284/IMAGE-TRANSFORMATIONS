@@ -29,10 +29,9 @@ Display the transformed images using Matplotlib for visualization. Convert the B
 Save or display the final transformed images for analysis and use plt.show() to display them inline in Jupyter or compatible environments.
 
 ## Program:
-
 #### Developed By: kabilan V
 #### Register Number: 212222100018
-```python
+```
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -107,9 +106,13 @@ plt.axis('off')
 plt.show()
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/4d9025bb-f8f9-4e4b-876a-9ad7d4231fd1)
-![image](https://github.com/user-attachments/assets/928fae8f-fdf4-491a-8761-d30a467f9e4d)
-
+![download](https://github.com/user-attachments/assets/1dbfbce9-97a8-4770-8597-81f79a1c8a39)
+![download](https://github.com/user-attachments/assets/77a4643a-a71f-4e12-88c9-37951104ddf9)
+![download](https://github.com/user-attachments/assets/35bb87b3-de3a-4db5-ab2e-900b8500ad9a)
+![download](https://github.com/user-attachments/assets/20a9c691-d0b2-41a1-9ad3-a1c09e753585)
+![download](https://github.com/user-attachments/assets/55756816-6f4a-4c97-91a8-c7524d982829)
+![download](https://github.com/user-attachments/assets/84bba33e-3cef-44b1-a73d-c76cf8b69a46)
+![download](https://github.com/user-attachments/assets/0fff3d60-438e-4513-ba22-7527fdd5d2a5)
 
 
 ## Result: 
