@@ -106,6 +106,7 @@ plt.title("Cropped Image")
 plt.axis('off')
 plt.show()
 ```
+## OUTPUT
 ![image](https://github.com/user-attachments/assets/4d9025bb-f8f9-4e4b-876a-9ad7d4231fd1)
 ![image](https://github.com/user-attachments/assets/928fae8f-fdf4-491a-8761-d30a467f9e4d)
 
